@@ -15,6 +15,9 @@
 ### italic+bold
 ***computer science engineering students***
 
-#link readme file
-<a href="">click here</a>
-[click here]("https://www.aec.edu.in/")
+# link readme file
+
+[ADITYA]("https://www.aec.edu.in/")
+
+# img -readme file
+! [virat_kohli] [virat_kohli,jpg]
