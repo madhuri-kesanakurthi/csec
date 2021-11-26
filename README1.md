@@ -16,7 +16,8 @@
 ***computer science engineering students***
 
 # link readme file
-[ADITYA]("https://www.aec.edu.in/")
+
+[ADITYA](https://www.aec.edu.in/)
 
 # img -readme file
 ![Virat_Kohli](Virat_Kohli.jpg)
