@@ -19,4 +19,4 @@
 [GOOGLE]("www.google.com")
 
 # img -readme file
-![Virat_Kohli][Virat_Kohli.jpg]
+![Virat_Kohli](Virat_Kohli.jpg)
