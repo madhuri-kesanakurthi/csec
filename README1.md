@@ -16,7 +16,7 @@
 ***computer science engineering students***
 
 # link readme file
-[GOOGLE]("www.google.com")
+![GOOGLE]("www.google.com")
 
 # img -readme file
 ![Virat_Kohli](Virat_Kohli.jpg)
