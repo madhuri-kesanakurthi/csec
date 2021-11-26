@@ -16,7 +16,6 @@
 ***computer science engineering students***
 
 # link readme file
-
 [ADITYA]("https://www.aec.edu.in/")
 
 # img -readme file
