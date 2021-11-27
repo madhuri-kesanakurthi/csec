@@ -38,7 +38,7 @@ open readme file
 - IS A GOOD CAFFINE
 
 ```PYTHON 
-   DEF HELLO()
+   def hello()
    a=10
    b=20
    c=30
