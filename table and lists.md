@@ -37,3 +37,11 @@ open readme file
 1. COFFEE
 - IS A GOOD CAFFINE
 
+```PYTHON 
+   DEF HELLO()
+   a=10
+   b=20
+   c=30
+   if a%2==0
+   print(a+b+c)
+```
