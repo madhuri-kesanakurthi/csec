@@ -1,0 +1,13 @@
+# heading1
+## heading2
+### heading3
+#### heading4
+##### heading5
+###### heading6
+
+# text styles
+*italic data here*  ** 
+**bold data here**
+
+# img -readme file
+! [virat_kohli] [virat_kohli,jpg]
