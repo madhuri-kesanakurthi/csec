@@ -33,3 +33,7 @@ open readme file
    1. USER NAME
    2. EMAIL ID 
    3. PASSWORD
+## DEFINITION LIST
+1. COFFEE
+- IS A GOOD CAFFINE
+
