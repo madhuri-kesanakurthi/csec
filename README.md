@@ -1,7 +1,26 @@
+
 good morning
 open readme file
-|s.no|name|BRANCH|ROLL NUMBER|
+# TABLE
+|S.NO|NAME|BRANCH|ROLL-NUMBER|
 |------|--------|------------|---------------------|
 |1|SURYA|CSE|535|
 |2|MADHURI|CSE|20A91A05F7|
 |3|ADITYA|CSE|365989|
+
+# LIST 
+## ORDERED LIST
+1.NAME
+2.ROLL NUMBER
+3.BRANCH
+4.COLLEGE
+### UNORDERED LIST
+- NAME
+- ROLL NUMBER
+- BRANCH
+- COLLEGE
+
+* NAME
+* ROLL NUMBER
+* BRANCH
+* COLLEGE
